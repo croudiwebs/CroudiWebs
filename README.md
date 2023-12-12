@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, this is CroudiWebs</h1>
 <h3 align="center">The IT Service Provider / Digital Marketing Hub</h3>
 
-<p align="left"> <img src="https://lh3.googleusercontent.com/pw/ADCreHcCRfm8AEn2_5wSRyEgFV_xbqgCiQsPY9gmFL-wxSbX1tYJprcjLHTnzTPyX4BSklOrPun5IooAjSIPv_hvWmCpHhtzxXSNZAzHxcxYk46JXhhhEg=s300-p-k" alt="croudiwebsGithub" /> </p>
-
 <p align="left"> <a href="https://twitter.com/croudiwebs" target="blank"><img src="https://img.shields.io/twitter/follow/croudiwebs?logo=twitter&style=for-the-badge" alt="croudiwebs" /></a> </p>
 
 - 🔭 We are currently working on **Chandrika Gems & Jewellers**
